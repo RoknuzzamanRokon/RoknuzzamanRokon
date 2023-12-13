@@ -2,7 +2,11 @@
 #### I am a software engineer.
 ![I am a software engineer.](https://media.licdn.com/dms/image/D5616AQGZppXNnEOV4A/profile-displaybackgroundimage-shrink_350_1400/0/1699364024799?e=1704931200&v=beta&t=YTHlaOJuZvAt_A24r1zkTfGUgkl1tIr7MM9C0dlVC-M)
 
-I can learn any new thing quickly. Working and learning python language for almost 5 years. You can find me as a backend developer. Basically I like to make desktop software. I also work with web applications. I do any work carefully and accurately
+I can learn any new thing quickly. I have been working and learning Python language for almost 5 years. You can find me as a backend developer. Basically I like to make desktop software. I also work with web applications. I do any work carefully and accurately.
+
+Meet Intarnd, a passionate software developer with a flair for coding and a deep love for the world of programming. Specializing in Python, Intarnd is known for their excellence in crafting efficient and innovative solutions. With a keen interest in computer software, they spend their time exploring new technologies and staying updated on the latest developments in the field.
+Intarnd's expertise extends to payment methods and web services, showcasing a commitment to mastering diverse aspects of software development. Their dedication to learning and staying ahead of the curve is reflected in the quality of their work.
+As a software enthusiast, Intarnd always seeks opportunities to contribute to cutting-edge projects and create software that makes a meaningful impact. With a strong foundation in programming and a passion for continuous improvement, Intarnd is poised to shape the future of software development.
 
 Skills: Python / JS / HTML / CSS/PHP
 
