@@ -8,11 +8,11 @@ Meet Intarnd, a passionate software developer with a flair for coding and a deep
 Intarnd's expertise extends to payment methods and web services, showcasing a commitment to mastering diverse aspects of software development. Their dedication to learning and staying ahead of the curve is reflected in the quality of their work.
 As a software enthusiast, Intarnd always seeks opportunities to contribute to cutting-edge projects and create software that makes a meaningful impact. With a strong foundation in programming and a passion for continuous improvement, Intarnd is poised to shape the future of software development.
 
-Skills: Python / JS / HTML / CSS/PHP
+Skills: Python / JavaScript / HTML / CSS / PHP / Docker 
 
 - 🔭 I’m currently working on Artixcore Inc. 
 - 🌱 I’m currently learning Python. 
-- 💬 Ask me about me anything. 
+- 💬 Ask about me anything. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RoknuzzamanRokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rokon-raz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rokon_Ron)  
