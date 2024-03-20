@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Md. Rokunuzzaman Rokon.
 #### I am a software engineer.
-![I am a software engineer.](https://media.licdn.com/dms/image/D5616AQGZppXNnEOV4A/profile-displaybackgroundimage-shrink_350_1400/0/1699364024799?e=1704931200&v=beta&t=YTHlaOJuZvAt_A24r1zkTfGUgkl1tIr7MM9C0dlVC-M)
 
 I can learn any new thing quickly. I have been working and learning Python language for almost 5 years. You can find me as a backend developer. Basically I like to make desktop software. I also work with web applications. I do any work carefully and accurately.
 
