@@ -1,21 +1,41 @@
-### Hi there 👋, My name is Md. Rokunuzzaman Rokon.
-#### I am a software engineer.
+# Md. Rokunuzzaman Rokon
 
-Meet Intarnd, a proficient software developer with a robust background in Python and a strong passion for programming. Having honed their skills over five years, Intarnd excels as a mid-level backend developer, adept at creating both desktop and web applications. They are constantly exploring new technologies, with a particular focus on payment methods and web services, ensuring their projects are not only efficient but also cutting-edge. Intarnd's meticulous approach and relentless pursuit of knowledge make them a valuable asset in any software development team, ready to tackle complex challenges and drive innovation in the field. 
+## Software Engineer | Backend Developer | Python Enthusiast
 
-- 💬 Ask about me anything. 
+Hello! I'm a passionate Software Engineer with over five years of experience in backend development. I specialize in building scalable, high-performance solutions for web and desktop applications, primarily using Python.
+
+## Technical Expertise
+#### ✔ Backend Development 
+Designing and optimizing robust backend systems for efficiency and scalability.
+#### ✔ Python & Frameworks 
+Proficient in Django, Flask and FastAPI for developing modern web applications.
+#### ✔ Payment Systems & Web Services  
+Skilled in integrating secure and seamless payment gateways and crafting efficient APIs.
+#### ✔ Performance & Optimization 
+Focused on writing clean, maintainable code that meets business needs.
+#### ✔ Cloud & DevOps 
+Continuously expanding expertise in cloud platforms, microservices and modern DevOps practices.
+
+## For my Philosophy
+I believe in clean architecture, meticulous attention to detail and continuous innovation. My goal is to bridge technical excellence with business objectives, delivering solutions that are scalable, secure and future-proof.
+
+## Let’s Collaborate!
+I'm always eager to learn, innovate and collaborate on exciting projects. Whether it's backend architecture, payment integrations, or API development, let's connect and build something impactful together!
+
+👇👇👇👇👇👇👇👇👇
+
+📩 [Email Address] | rokon.raz@gmail.com
+
+🌐 [LinkedIn] | https://www.linkedin.com/in/rokon-raz/
+
+💻 [GitHub Profile] | https://github.com/RoknuzzamanRokon
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RoknuzzamanRokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rokon-raz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rokon_Ron)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoknuzzamanRokon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RoknuzzamanRokon)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoknuzzamanRokon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoknuzzamanRokon&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RoknuzzamanRokon)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoknuzzamanRokon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/RoknuzzamanRokon)
