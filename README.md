@@ -32,10 +32,26 @@ I'm always eager to learn, innovate and collaborate on exciting projects. Whethe
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoknuzzamanRokon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoknuzzamanRokon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/RoknuzzamanRokon)
+
+
+
+
