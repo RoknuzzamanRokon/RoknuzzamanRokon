@@ -24,7 +24,7 @@ I'm always eager to learn, innovate and collaborate on exciting projects. Whethe
 
 👇👇👇👇👇👇👇👇👇
 
-📩 [Email Address] | rokon.raz@gmail.com
+📩 [Email Address] | rokon.dev.work@gmail.com
 
 🌐 [LinkedIn] | https://www.linkedin.com/in/rokon-raz/
 
