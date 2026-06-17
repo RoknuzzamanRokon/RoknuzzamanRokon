@@ -1,6 +1,6 @@
 # Md. Rokunuzzaman Rokon
 
-## Software Engineer | Backend Developer | Python Enthusiast
+## Backend Developer | Python Enthusiast
 
 Hello! I'm a passionate Software Engineer with over five years of experience in backend development. I specialize in building scalable, high-performance solutions for web and desktop applications, primarily using Python.
 
