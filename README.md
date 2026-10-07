@@ -17,10 +17,17 @@ I build backend systems that move and serve large volumes of data reliably. For 
 
 | Area | Tools |
 |---|---|
-| Languages | Python, SQL, JavaScript |
-| Frameworks | FastAPI, Django, Flask, React |
-| Data | MySQL, DynamoDB |
-| Cloud / Ops | AWS (Lambda, DynamoDB), Ubuntu, nginx, Docker |
+| Languages | Python, SQL, JavaScript, Bash |
+| Backend Frameworks | FastAPI, Django, Django REST Framework, Flask |
+| Frontend | React, HTML, CSS |
+| Databases | MySQL, DynamoDB, PostgreSQL, Redis |
+| Data Processing | Pandas, bulk loading, ETL pipelines, batch & concurrent fetching |
+| APIs & Integrations | REST, JWT/OAuth2 auth, webhooks, payment gateways (Stripe, SSLCommerz, bKash) |
+| Async & Queues | asyncio, Celery, RabbitMQ |
+| Cloud | AWS (Lambda, DynamoDB, S3, EC2, API Gateway, CloudWatch) |
+| DevOps | Docker, GitHub Actions (CI/CD), Linux (Ubuntu), nginx, SSL/TLS, cron |
+| Testing & Quality | pytest, Postman, Swagger/OpenAPI, Git |
+| Practices | Clean architecture, microservices, performance tuning, code review |
 
 ## Experience
 
