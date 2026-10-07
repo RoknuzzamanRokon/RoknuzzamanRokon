@@ -1,35 +1,51 @@
 # Md. Rokunuzzaman Rokon
 
-## Backend Developer | Python Enthusiast
+### Backend Engineer · Python · Data Pipelines & APIs
+📍 Dhaka, Bangladesh
 
-Hello! I'm a passionate Software Engineer with over five years of experience in backend development. I specialize in building scalable, high-performance solutions for web and desktop applications, primarily using Python.
+I build backend systems that move and serve large volumes of data reliably. For 6+ years I've worked across web services, data pipelines, and cloud infrastructure, with a long-standing focus on the hotel and travel-tech domain.
 
-## Technical Expertise
-#### ✔ Backend Development 
-Designing and optimizing robust backend systems for efficiency and scalability.
-#### ✔ Python & Frameworks 
-Proficient in Django, Flask and FastAPI for developing modern web applications.
-#### ✔ Payment Systems & Web Services  
-Skilled in integrating secure and seamless payment gateways and crafting efficient APIs.
-#### ✔ Performance & Optimization 
-Focused on writing clean, maintainable code that meets business needs.
-#### ✔ Cloud & DevOps 
-Continuously expanding expertise in cloud platforms, microservices and modern DevOps practices.
+## What I Do
 
-## For my Philosophy
-I believe in clean architecture, meticulous attention to detail and continuous innovation. My goal is to bridge technical excellence with business objectives, delivering solutions that are scalable, secure and future-proof.
+- **Data pipelines at scale:** fetching, matching, and bulk-loading large hotel content datasets
+- **API & service design:** production APIs with FastAPI, Django, and Flask
+- **Database engineering:** MySQL schema design, query optimization, and bulk-load strategies
+- **Serverless & cloud:** AWS Lambda, DynamoDB, Linux server administration (nginx, SSL, cron)
+- **Payment integrations:** secure gateway integrations and webhook handling
 
-## Let’s Collaborate!
-I'm always eager to learn, innovate and collaborate on exciting projects. Whether it's backend architecture, payment integrations, or API development, let's connect and build something impactful together!
+## Tech Stack
 
-👇👇👇👇👇👇👇👇👇
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, JavaScript |
+| Frameworks | FastAPI, Django, Flask, React |
+| Data | MySQL, DynamoDB |
+| Cloud / Ops | AWS (Lambda, DynamoDB), Ubuntu, nginx, Docker |
 
-📩 [Email Address] | rokon.dev.work@gmail.com
+## Experience
 
-📩 [Email Address] | rokon.raz@gmail.com
+**Innovate Solution**: Backend Engineer
+Hotel content pipelines, FastAPI services, and MySQL systems processing large datasets.
 
-🌐 [LinkedIn] | https://www.linkedin.com/in/rokon-raz/
+**Artixcore Inc**: Python Developer
+Serverless backends on AWS Lambda and DynamoDB.
 
-💻 [GitHub Profile] | https://github.com/RoknuzzamanRokon
+**GorillaMove**: Junior Software Engineer
+Full-stack work with React.
 
+## Featured Work
 
+- 🔹 **[Project name]**: one line on the problem, the stack, and the result (e.g. "cut ingestion time from X to Y")
+- 🔹 **[Project name]**: one line on the problem, the stack, and the result
+- 🔹 **[Project name]**: one line on the problem, the stack, and the result
+
+## How I Work
+
+Clean architecture, careful attention to detail, and code that's easy to maintain. I like tying technical decisions back to business outcomes: systems that are scalable, secure, and simple to operate.
+
+## Let's Connect
+
+I'm open to discussing backend architecture, data pipelines, and API projects.
+
+📧 rokon.dev.work@gmail.com · rokon.raz@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/rokon-raz/) · 💻 [GitHub](https://github.com/RoknuzzamanRokon)
