@@ -42,9 +42,12 @@ Full-stack work with React.
 
 ## Featured Work
 
-- 🔹 **[Project name]**: one line on the problem, the stack, and the result (e.g. "cut ingestion time from X to Y")
-- 🔹 **[Project name]**: one line on the problem, the stack, and the result
-- 🔹 **[Project name]**: one line on the problem, the stack, and the result
+* 🔹 **AdvocateHub**: Built a modern legal case-management platform with **FastAPI, Next.js, MySQL, Redis, and MinIO**, supporting advocate portals, case workflows, document management, and scalable backend services.
+
+* 🔹 **MiniShop**: Developed a full-stack e-commerce platform using **Django REST Framework, MySQL, Next.js, and Tailwind CSS**, with product management, authentication, shopping workflows, and an admin management console.
+
+* 🔹 **Rentora**: Built a rental property management platform with **FastAPI, SQLAlchemy 2, MySQL, and modern frontend architecture**, focusing on scalable APIs, suite/property management, and reliable backend workflows.
+
 
 ## How I Work
 
